@@ -1,0 +1,32 @@
+.red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+ul.colored-list li {
+  color: blue;
+}
+
+ul.colored-list li ol li:first-child {
+  color: green;
+}
+
+ul.colored-list li ol li:last-child {
+  color: orange;
+}
+
+ul.colored-list li:last-child {
+  color: purple;
+}
+
+
+.random-size-1 { font-size: 10px; }
+.random-size-2 { font-size: 20px; }
+.random-size-3 { font-size: 30px; }
+.random-size-4 { font-size: 40px; }
+.random-size-5 { font-size: 50px; }
+.random-size-6 { font-size: 60px; }
+.random-size-7 { font-size: 70px; }
